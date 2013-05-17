@@ -1,0 +1,3 @@
+1. Find m_pd.h from your Pure Data installation or the Internet.
+2. Follow the steps here (http://puredata.info/docs/developer/PdExternalsInXcode) to set up Xcode.
+3. Enjoy.
